@@ -1,0 +1,50 @@
+﻿Public Class dificultadpais
+
+    Private Sub Label4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label4.Click
+        Me.Close()
+    End Sub
+
+    Private Sub dificultadprg_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.StartPosition = FormStartPosition.Manual
+        Dim screenWidth As Integer = Screen.PrimaryScreen.WorkingArea.Width
+        Dim screenHeight As Integer = Screen.PrimaryScreen.WorkingArea.Height
+
+        Dim formWidth As Integer = Me.Width
+        Dim formHeight As Integer = Me.Height
+
+        Me.Left = (screenWidth - formWidth) \ 2
+        Me.Top = (screenHeight - formHeight) \ 2
+    End Sub
+    
+    Private Sub Label1_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label1.Click
+        paises1.Show()
+        Form2.Close()
+        Me.Close()
+    End Sub
+
+    Private Sub Label3_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label3.Click
+        paises2.Show()
+        Form2.Close()
+        Me.Close()
+    End Sub
+
+    Private Sub Label1_MouseEnter(ByVal sender As Object, ByVal e As EventArgs) Handles Label1.MouseEnter
+        Label1.ForeColor = Color.White 'Cambia el color de la fuente de la label1
+
+    End Sub
+
+    Private Sub Label1_MouseLeave(ByVal sender As Object, ByVal e As EventArgs) Handles Label1.MouseLeave
+        Label1.ForeColor = Color.Black 'Cambia el color de la fuente de la label1
+
+    End Sub
+
+    Private Sub Label3_MouseEnter(ByVal sender As Object, ByVal e As EventArgs) Handles Label3.MouseEnter
+        Label3.ForeColor = Color.White 'Cambia el color de la fuente de la label1
+
+    End Sub
+
+    Private Sub Label3_MouseLeave(ByVal sender As Object, ByVal e As EventArgs) Handles Label3.MouseLeave
+        Label3.ForeColor = Color.Black 'Cambia el color de la fuente de la label1
+
+    End Sub
+End Class

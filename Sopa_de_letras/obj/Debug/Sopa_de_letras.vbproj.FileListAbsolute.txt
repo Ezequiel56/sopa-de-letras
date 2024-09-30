@@ -1,0 +1,137 @@
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.exe
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.pdb
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.xml
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form1.resources
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Resources.resources
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.vbproj.GenerateResource.Cache
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form2.resources
+D:\Proyecto de sistemas computacionales\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form3.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+D:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.exe
+D:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.pdb
+D:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.xml
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\ResolveAssemblyReference.cache
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form1.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form2.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Resources.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.vbproj.GenerateResource.Cache
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.exe
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.pdb
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.xml
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\ResolveAssemblyReference.cache
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form1.resources
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form2.resources
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form3.resources
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Resources.resources
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.vbproj.GenerateResource.Cache
+F:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form4.resources
+D:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+D:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+D:\elias_oporto\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.exe
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.pdb
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.xml
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.vbproj.GenerateResource.Cache
+C:\Users\xjp71\Desktop\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form5.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+I:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.exe
+I:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.pdb
+I:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.xml
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\ResolveAssemblyReference.cache
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form1.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form2.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form3.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form4.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form5.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Resources.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.vbproj.GenerateResource.Cache
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Animales.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Loseanimales.resources
+I:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Winanimales.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+F:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.exe
+F:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.pdb
+F:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.xml
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\ResolveAssemblyReference.cache
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form1.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form2.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Resources.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.vbproj.GenerateResource.Cache
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadprg.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl2prg.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl1prg.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl3prg.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Lose.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.win.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadprg.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl1prg.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl2prg.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Lose.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl3prg.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.win.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.exe
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.xml
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.pdb
+G:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.exe
+G:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.pdb
+G:\Sopa_de_letras\Sopa_de_letras\bin\Debug\Sopa_de_letras.xml
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\ResolveAssemblyReference.cache
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadprg.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form1.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Form2.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl1prg.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl2prg.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Lose.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.lvl3prg.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Resources.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.win.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\Sopa_de_letras.vbproj.GenerateResource.Cache
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadani.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.animales1.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.animales2.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.paises1.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadpais.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.paises2.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Opciones.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.soporte.resources
+G:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.comojugar.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.animales2.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.animales1.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.comojugar.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadani.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadpais.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Opciones.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.paises1.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.paises2.resources
+D:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.soporte.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.animales2.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.animales1.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.comojugar.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadani.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.dificultadpais.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.Opciones.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.paises1.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.paises2.resources
+F:\Sopa_de_letras\Sopa_de_letras\obj\Debug\WindowsApplication1.soporte.resources

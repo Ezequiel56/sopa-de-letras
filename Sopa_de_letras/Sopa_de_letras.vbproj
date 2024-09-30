@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{706EF582-B44A-4334-BA5F-92CA0B0DA00F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Sopa_de_letras</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sopa_de_letras.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sopa_de_letras.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="animales2.Designer.vb">
+      <DependentUpon>animales2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="animales2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="animales1.Designer.vb">
+      <DependentUpon>animales1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="animales1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comojugar.Designer.vb">
+      <DependentUpon>comojugar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="comojugar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dificultadani.Designer.vb">
+      <DependentUpon>dificultadani.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dificultadani.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dificultadpais.Designer.vb">
+      <DependentUpon>dificultadpais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dificultadpais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dificultadprg.Designer.vb">
+      <DependentUpon>dificultadprg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dificultadprg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl1prg.Designer.vb">
+      <DependentUpon>lvl1prg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lvl1prg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl2prg.Designer.vb">
+      <DependentUpon>lvl2prg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lvl2prg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lose.Designer.vb">
+      <DependentUpon>Lose.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Lose.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl3prg.Designer.vb">
+      <DependentUpon>lvl3prg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lvl3prg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Opciones.Designer.vb">
+      <DependentUpon>Opciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Opciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paises1.Designer.vb">
+      <DependentUpon>paises1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="paises1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paises2.Designer.vb">
+      <DependentUpon>paises2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="paises2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soporte.Designer.vb">
+      <DependentUpon>soporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="soporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="win.Designer.vb">
+      <DependentUpon>win.vb</DependentUpon>
+    </Compile>
+    <Compile Include="win.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="animales2.resx">
+      <DependentUpon>animales2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="animales1.resx">
+      <DependentUpon>animales1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comojugar.resx">
+      <DependentUpon>comojugar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dificultadani.resx">
+      <DependentUpon>dificultadani.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dificultadpais.resx">
+      <DependentUpon>dificultadpais.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dificultadprg.resx">
+      <DependentUpon>dificultadprg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl1prg.resx">
+      <DependentUpon>lvl1prg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl2prg.resx">
+      <DependentUpon>lvl2prg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lose.resx">
+      <DependentUpon>Lose.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl3prg.resx">
+      <DependentUpon>lvl3prg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opciones.resx">
+      <DependentUpon>Opciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paises1.resx">
+      <DependentUpon>paises1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paises2.resx">
+      <DependentUpon>paises2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soporte.resx">
+      <DependentUpon>soporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="win.resx">
+      <DependentUpon>win.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
